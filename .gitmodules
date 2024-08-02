@@ -1,0 +1,6 @@
+[submodule "MICUOS-HiTech-arch-animation"]
+	path = MICUOS-HiTech-arch-animation
+	url = https://github.com/Mosque-ICU/MICUOS-HiTech-arch-animation
+[submodule "MICUOS-defos"]
+	path = MICUOS-defos
+	url = https://github.com/Mosque-ICU/MICUOS-defos.git
