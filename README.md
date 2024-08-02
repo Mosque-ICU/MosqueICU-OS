@@ -34,6 +34,8 @@ Upon startup, MosqueICU-OS displays tailored boot animations and immediately lau
 
 A key innovation of MosqueICU-OS is its local cloud feature, which allows users to upload, store, and stream content such as videos and images within the local network. This decentralized approach to content management and streaming addresses several legacy system issues, including high costs and limited streaming capabilities. The local cloud supports:
 
+
+- **Container Applications**: The machine runs containers that may be used by the local network and the wider community such as site, admin apps ect.
 - **Local WebSockets**: Facilitates real-time communication within the local network.
 - **Intranets and NAS**: Provides secure access to shared resources and storage.
 - **Decentralized Streaming**: Enables users to broadcast content to various devices within the network and over the network on diffrent authorisation levels, including big screens and mobile web platforms.
